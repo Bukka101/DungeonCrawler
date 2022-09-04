@@ -1,0 +1,7 @@
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/Crawler.exe
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/maps/Advanced.map
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/maps/Simple.map
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/Crawler.dll
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/Crawler.deps.json
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/Crawler.runtimeconfig.json
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/publish/Crawler.pdb

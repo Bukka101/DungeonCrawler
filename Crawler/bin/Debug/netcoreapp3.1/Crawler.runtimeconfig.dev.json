@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Bukka/.dotnet/store/|arch|/|tfm|",
+      "/Users/Bukka/.nuget/packages"
+    ]
+  }
+}

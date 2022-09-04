@@ -1,0 +1,16 @@
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/maps/Advanced.map
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/maps/Simple.map
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.exe
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.deps.json
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.runtimeconfig.json
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.runtimeconfig.dev.json
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.dll
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/bin/Release/netcoreapp3.1/win-x64/Crawler.pdb
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.csproj.AssemblyReference.cache
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.AssemblyInfoInputs.cache
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.AssemblyInfo.cs
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.csproj.CoreCompileInputs.cache
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.dll
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.pdb
+/Users/Bukka/MyProjects/2021-comp1000-proj-Bukka101/Crawler/obj/Release/netcoreapp3.1/win-x64/Crawler.genruntimeconfig.cache

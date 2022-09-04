@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{25F0CF31-9999-4A15-A6D7-31D96EC2F24E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Dungeon-10736843/Crawler.cs">
+    <Files>
+      <File FileName="CMD-Crawler.cs" Line="89" Column="14" />
+      <File FileName="../../Dungeon-10736843/Crawler.cs" Line="932" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crawler" expanded="True">
+            <Node name="Crawler" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="CMD-Crawler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>originalMap</Value>
+          <Value>dynamicMap</Value>
+          <Value>monsterDetails</Value>
+          <Value>dynamicMap[x][y]</Value>
+          <Value>onCoin</Value>
+          <Value>coins</Value>
+          <Value>monsterDetails["deadMonster1CoinValue"]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Crawler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
